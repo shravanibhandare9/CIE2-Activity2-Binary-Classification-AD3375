@@ -5,15 +5,6 @@
 
 ---
 
-## Student Details
-- **Student Name:** `Shrawani Bhandare`
-- **Roll Number:** `AD3375`
-- **PRN:** `[Your PRN Number]`
-- **Division:** `[A / B / C]`
-- **Evaluation Profile:** [https://github.com/complexiota](https://github.com/complexiota)
-
----
-
 ## 1. Executive Summary & Clinical Context
 In healthcare screening for type 2 diabetes mellitus, our goal is early detection. The consequence of classification errors is asymmetric:
 - **False Negative (FN):** A diabetic patient is erroneously diagnosed as healthy, missing early lifestyle intervention and pharmacotherapy. This leads to preventable long-term complications including diabetic retinopathy, nephropathy, peripheral neuropathy, and cardiovascular disease.
