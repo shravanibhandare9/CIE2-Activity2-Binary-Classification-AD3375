@@ -6,13 +6,7 @@
 
 ---
 
-## Student Submission Information
-- **Student Name:** `Shrawani Bhandare`
-- **Roll Number:** `AD3375`
-- **PRN:** `[Your PRN Number]`
-- **Division:** `[A / B / C]`
-- **Faculty Submission Profile:** [https://github.com/complexiota](https://github.com/complexiota)
-- **Repository Visibility:** Public
+- **Faculty Submission Evaluation Profile:** [https://github.com/complexiota](https://github.com/complexiota)
 
 ---
 
