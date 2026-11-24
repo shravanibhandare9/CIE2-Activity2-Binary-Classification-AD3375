@@ -1,10 +1,4 @@
 # CIE 2 Activity 2: Binary Classification with Logistic Regression
-**Department:** Artificial Intelligence and Data Science | **Class:** T.Y. B.Tech  
-**Course:** Regression and Classification Algorithms | **Semester:** V (Academic Year: 2026–27)  
-**Institution:** Zeal Education Society's Zeal College of Engineering and Research, Narhe, Pune  
-**Record No.:** ZCOER-ACAD/R/16K | **Marks:** 5  
-
----
 
 - **Faculty Submission Evaluation Profile:** [https://github.com/complexiota](https://github.com/complexiota)
 
