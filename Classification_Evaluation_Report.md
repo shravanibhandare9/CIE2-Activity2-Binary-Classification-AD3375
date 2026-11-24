@@ -1,9 +1,4 @@
 # Activity 2: Classification Evaluation Report
-**Course:** Regression and Classification Algorithms | **Class:** T.Y. B.Tech (AI & DS)  
-**Institution:** Zeal College of Engineering and Research, Narhe, Pune  
-**Record No.:** ZCOER-ACAD/R/16K | **Academic Year:** 2026–27 | **Marks:** 5  
-
----
 
 ## 1. Executive Summary & Clinical Context
 In healthcare screening for type 2 diabetes mellitus, our goal is early detection. The consequence of classification errors is asymmetric:
