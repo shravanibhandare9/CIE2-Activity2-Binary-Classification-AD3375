@@ -123,33 +123,6 @@ We recommend **Threshold 0.3**:
 2. **Demographic Specificity:** The cohort comprises adult Pima Indian females; findings must be re-calibrated before deploying to broader ethnic populations.
 3. **Clinical Role:** Predictions are probabilistic risk assessments designed to assist screening prioritization, never to replace clinician judgment or formal blood lab tests.
 
----
 
-## 10. Repository Structure
-```text
-├── Activity_2_Binary_Classification.ipynb        # Executable Jupyter Notebook with all outputs
-├── pima-indians-diabetes.csv                     # Cleaned dataset (768 records)
-├── Classification_Evaluation_Report.md           # Standalone evaluation & threshold report
-├── Activity_2_Comprehensive_Report.md            # Detailed 36-section technical report
-├── requirements.txt                              # Environment dependencies
-├── .gitignore                                    # Git ignore rules
-└── README.md                                     # Main project documentation (this file)
-```
-
----
-
-## 11. Instructions to Run
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/[your-repo-name].git
-cd [your-repo-name]
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter Lab / Notebook
-jupyter lab
-```
-Or open `Activity_2_Binary_Classification.ipynb` directly in [Google Colab](https://colab.research.google.com).
 
 
