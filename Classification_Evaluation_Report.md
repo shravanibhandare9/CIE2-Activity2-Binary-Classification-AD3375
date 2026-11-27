@@ -1,6 +1,6 @@
 # Activity 2: Classification Evaluation Report
 
-## 1. Executive Summary & Clinical Context
+## 1. Problem Overview & Clinical Context
 In healthcare screening for type 2 diabetes mellitus, our goal is early detection. The consequence of classification errors is asymmetric:
 - **False Negative (FN):** A diabetic patient is erroneously diagnosed as healthy, missing early lifestyle intervention and pharmacotherapy. This leads to preventable long-term complications including diabetic retinopathy, nephropathy, peripheral neuropathy, and cardiovascular disease.
 - **False Positive (FP):** A non-diabetic patient is flagged as positive and referred for a confirmatory laboratory test (such as an Oral Glucose Tolerance Test or glycated hemoglobin $\text{HbA}_{1c}$). The cost is minor clinical inconvenience and small testing fees.
